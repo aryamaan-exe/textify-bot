@@ -5,7 +5,7 @@ Source code for Discord bot implementation of Textify.
 - discord.py
 - dnspython
 - pymongo
-- emoji
+- textify (not available on pip)
 
 ## Installation
 View [this repo](https://github.com/null-Exception1/Textify) for more information.
